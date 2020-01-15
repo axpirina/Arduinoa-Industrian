@@ -22,26 +22,26 @@ void setup() {
 void loop() {
 
   argiValue = analogRead(A0);           // 0 pin analogikoa irakurri eta aldagaiean gorde
-  //argiValue = map (argiValue, ARGI MINIMOA,ARGI MAXIMOA,0,255);   // Sentsorea kalibratzeko ondorengoak bistaratu
-  //argiValue = constrain(argiValue,0,255);
-  Serial.print("Gelako argiaren balioa 1-255 artean: ");    // Irakurririko balioa inprimatu
+  //argiValue = map (argiValue, ARGI MINIMOA,ARGI MAXIMOA,0,100);   // Sentsorea kalibratzeko ondorengoak bistaratu
+  //argiValue = constrain(argiValue,0,100);
+  Serial.print("Gelako argiaren balioa 0-100 artean: ");    // Irakurririko balioa inprimatu
   Serial.println(argiValue);
 
-  if (argiValue > 200  && argiValue < 255) {
+  if (argiValue > 80  && argiValue < 100) {
     Serial.println("ARGIAK ITZALITA"); Serial.println("");
     digitalWrite(M1, HIGH);
     analogWrite(E1, 0);
     digitalWrite(M2, HIGH);
     analogWrite(E2, 0);
   }
-  else if (argiValue > 150  && argiValue < 200) {
+  else if (argiValue > 60  && argiValue < 80) {
     Serial.println("ARGI MOTZAK"); Serial.println("");
     digitalWrite(M1, HIGH);
     analogWrite(E1, 20);
     digitalWrite(M2, HIGH);
     analogWrite(E2, 20);
   }
-  else if (argiValue > 0  && argiValue < 150) {
+  else if (argiValue > 0  && argiValue < 60) {
     Serial.println("ARGI LUZEAK"); Serial.println("");
     digitalWrite(M1, HIGH);
     analogWrite(E1, 100);
