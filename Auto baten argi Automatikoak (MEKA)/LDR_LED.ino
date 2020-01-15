@@ -37,16 +37,16 @@ void loop() {
   else if (argiValue > 60  && argiValue < 80) {
     Serial.println("ARGI MOTZAK"); Serial.println("");
     digitalWrite(M1, HIGH);
-    analogWrite(E1, 20);
+    analogWrite(E1, 80);
     digitalWrite(M2, HIGH);
-    analogWrite(E2, 20);
+    analogWrite(E2, 80);
   }
   else if (argiValue > 0  && argiValue < 60) {
     Serial.println("ARGI LUZEAK"); Serial.println("");
     digitalWrite(M1, HIGH);
-    analogWrite(E1, 100);
+    analogWrite(E1, 255);
     digitalWrite(M2, HIGH);
-    analogWrite(E2, 100);
+    analogWrite(E2, 255);
   }
   delay(0);
 }
