@@ -1,6 +1,6 @@
-## Ongietorri Traktorinoa proiektura
+## Arduinoa Industrian MEKA
 
-GitHub repositorian aurkituko duzu informazio xehetuagoa (https://github.com/axpirina/Traktorinoa) ..
+Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa praktikoaren errepositoria da hurrengoa. (https://industry-automation.moodlecloud.com/) 
 
 # IoM 2040 Shutdown Controller
 
