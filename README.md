@@ -32,10 +32,10 @@ digitalWrite(13, HIGH); // sets the digital pin 13 on
 Kurtsoa Classroom plataformaren bitartez emango da nagusiki.
 
 <p float="centre">
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="600" />
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="400" />
 </p> 
 
-1. Open your ***/boot/config.txt*** file while reading the SD in any operation system.  :computer: 
+1. Egintzazue ***GMAIL*** kontu bat kurtsoa jaso ahal izateko.  :computer: 
 2. ADD the following line and SAVE.  :page_facing_up:
 
      ```enable_uart=1 ```
