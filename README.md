@@ -2,6 +2,8 @@
 
 Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa praktikoaren errepositoria da hurrengoa. (https://industry-automation.moodlecloud.com/) 
 
+![Eskema](Elektropneumatikoa (MEKA)_bb.png)
+
 ## Plangintza
 
 Arduinoaren erabilera esplikatzeko teoria lehenengo 5 praktiketan ematen da, Classroom eta Moodle erremintak erabiliaz eta bideo bitartez lagunduta. Klaseak flipped classroom moduan ematen dira ordu presentzialak praktikak egiteko aprobetxatuaz eta teoria online eginaz EDPUZZLE plataforma bitartez.
