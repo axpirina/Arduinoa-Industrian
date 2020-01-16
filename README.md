@@ -13,7 +13,11 @@ Arduinoaren erabilera esplikatzeko teoria lehenengo 5 praktiketan ematen da, Cla
 
 (https://classroom.google.com/u/0/w/NDM3NDM5NDg1ODha/t/all?hl=es) 
 
-<img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="400" height="600">
+<p float="left">
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Moodle.png" width="300" />
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Eddpuzzle.png" width="300" /> 
+   <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="300" /> 
+</p>
 
 ## Installation
 
