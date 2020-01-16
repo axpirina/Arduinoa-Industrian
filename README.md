@@ -3,9 +3,8 @@
 Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa praktikoaren errepositoria da hurrengoa. (https://industry-automation.moodlecloud.com/) 
 
 <p float="left">
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="100" />
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="100" /> 
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="100" />
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="400" />
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="400" /> 
 </p>
 
 ## Plangintza
