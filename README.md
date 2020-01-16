@@ -19,9 +19,9 @@ Arduinoaren erabilera esplikatzeko teoria lehenengo 5 praktiketan ematen da, Cla
   <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Eddpuzzle.png" width="400" /> 
 </p>
 
-## Installation
+## Aurretiko jakintzak
 
-Enter the following command in the terminal and the service will be automatically installed: 
+Ez da bereziki elektronika edo programazio aurrekarririk behar, baina ongi etortzen da C edo antzeko hizkuntzen jakintza pixkat. 
 
 ```bash
 wget https://raw.githubusercontent.com/Tknika/iom2040-shutdown-controller/master/install.sh -O - | sudo sh
