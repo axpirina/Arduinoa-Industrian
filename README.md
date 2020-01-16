@@ -24,13 +24,17 @@ Arduinoaren erabilera esplikatzeko teoria lehenengo 5 praktiketan ematen da, Cla
 Ez da bereziki elektronika edo programazio aurrekarririk behar, baina ongi etortzen da C edo antzeko hizkuntzen jakintza pixkat. 
 
 ```bash
-wget https://raw.githubusercontent.com/Tknika/iom2040-shutdown-controller/master/install.sh -O - | sudo sh
+digitalWrite(13, HIGH); // sets the digital pin 13 on
 ```
 
-## Configuration
+## Konfigurazioa
 
-Remember to configure ***/boot/config.txt*** file in your SD and ADD this line right after flashing the last Rasbian in your SD. 
- 
+Kurtsoa Classroom plataformaren bitartez emango da nagusiki.
+
+<p float="centre">
+  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="600" />
+</p> 
+
 1. Open your ***/boot/config.txt*** file while reading the SD in any operation system.  :computer: 
 2. ADD the following line and SAVE.  :page_facing_up:
 
