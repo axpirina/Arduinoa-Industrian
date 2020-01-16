@@ -1,6 +1,7 @@
 ## Arduinoa Industrian MEKA
 
-Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa praktikoaren errepositoria da hurrengoa. (https://industry-automation.moodlecloud.com/) 
+Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa praktikoaren errepositoria da hurrengoa. 
+(https://classroom.google.com/u/0/w/NDM3NDM5NDg1ODha/t/all?hl=es)
 
 <p float="left">
   <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="400" />
@@ -10,8 +11,8 @@ Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa prak
 ## Plangintza
 
 Arduinoaren erabilera esplikatzeko teoria lehenengo 5 praktiketan ematen da, Classroom eta Moodle erremintak erabiliaz eta bideo bitartez lagunduta. Klaseak flipped classroom moduan ematen dira ordu presentzialak praktikak egiteko aprobetxatuaz eta teoria online eginaz EDPUZZLE plataforma bitartez.
-
-(https://classroom.google.com/u/0/w/NDM3NDM5NDg1ODha/t/all?hl=es) 
+ 
+(https://industry-automation.moodlecloud.com/) 
 
 <p float="left">
   <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Moodle.png" width="400" />
