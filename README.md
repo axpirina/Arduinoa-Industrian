@@ -35,16 +35,8 @@ Kurtsoa Classroom plataformaren bitartez emango da nagusiki.
   <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="400" />
 </p> 
 
-1. Egintzazue ***GMAIL*** kontu bat kurtsoa jaso ahal izateko.  :computer: 
-2. ADD the following line and SAVE.  :page_facing_up:
+Egintzazue ***GMAIL*** kontu bat kurtsoa jaso ahal izateko.  :computer: 
 
-     ```enable_uart=1 ```
+     ```don't be evil ```
     
-3. This will enable GPIO serial port which is disabled in newer versions of Raspbian Jessie (May 2016 and later).
 
-## Electronics
-
-Place and connect the following circuit on raspberry GPIOs.
-
-![What is this](RaspiProtoboard.png)
-![What is this](RaspiScheme.png)
