@@ -31,9 +31,9 @@ digitalWrite(13, HIGH); // sets the digital pin 13 on
 
 Kurtsoa Classroom plataformaren bitartez emango da nagusiki.
 
-<p float="centre">
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png" width="400" />
-</p> 
+<p align="center">
+  <img width="400" height="300" src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Classroom.png">
+</p>
 
 Egintzazue ***GMAIL*** kontu bat kurtsoa jaso ahal izateko.  :computer: 
 
