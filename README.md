@@ -4,8 +4,8 @@ Ingurune industrialeko aplikazioetan Arduinoa erabiltzeko sortu den kurtsoa prak
 (https://classroom.google.com/u/0/w/NDM3NDM5NDg1ODha/t/all?hl=es)
 
 <p float="left">
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="400" />
-  <img src="https://github.com/axpirina/Arduinoa-Industrian/blob/master/Irudiak/Engranaje%2002.gif" width="400" /> 
+  <img src="Irudiak/Elektropneumatikoa%20(MEKA)_bb.png" width="400" />
+  <img src="Irudiak/Engranaje%2002.gif" width="400" /> 
 </p>
 
 ## Plangintza
